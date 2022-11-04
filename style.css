@@ -1,0 +1,21 @@
+*{
+    padding: 10;
+    margin: 10;
+    box-sizing: border-box;
+    list-style:decimal
+}
+
+header{
+    background-color: #3723ad;
+}
+.userinfo {
+    display: flex;
+    justify-tracks: ;
+    background-color: #e61e2f;
+}
+body {
+    display:flex;
+    justify-content:first baseline;
+    background-color: #b6dfd6;
+    color: #1910a3;
+}
